@@ -1,24 +1,31 @@
-# 🗝️ Escape Room Game
+# 🎮 Maze Game
 
-Welcome to the **Escape Room Game**, a browser-based puzzle game that challenges players to think critically, solve riddles, and escape from a locked virtual room. This game combines logic puzzles, hidden clues, and immersive interaction — all in one fun experience!
-
-## 🎮 Game Concept
-
-You're trapped in a mysterious room filled with clues, locks, and surprises. Your mission: **solve all the puzzles** and **escape before time runs out**!
-
-- 🧩 Hidden Clues
-- 🔐 Locked Doors and Secret Codes
-- ⏱️ Time-based Challenges (Optional)
-- 🎯 Level-based Difficulty
+A simple and fun **Maze Game** built using **HTML, CSS, and JavaScript**.  
+The goal is to move every ball to the center of the maze using the joystick controls.
 
 ---
 
-## 💻 Technologies Used
+## 🖼️ Preview
 
-- **HTML5** – For building the game interface
-- **CSS3** – Styling and responsive layout
-- **JavaScript** – Game logic and interactivity
-- *(Optional: Add any library or framework like Bootstrap, GSAP, jQuery, or React if used)*
+<img width="604" height="408" alt="image" src="https://github.com/user-attachments/assets/57a3e042-176e-4ef6-8a94-fed0250bc14b" />
+
 
 ---
+
+## 🚀 Features
+- 🎯 Interactive maze with joystick controls
+- 🟢 Guide balls through the maze to the center
+- 🔄 Multiple balls to move
+- ⚡ Ready for **Hard Mode** (Press `H` to activate)
+- 🖌️ Fully responsive and lightweight design
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5** – Game structure  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Game logic and interactivity  
+
+---
+
 
